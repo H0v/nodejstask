@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-task",
+  "version": "1.0.0",
+  "description": "Initialize project with npm, install moment.js, run project using the run script, create an app that will write to a stream every second the current time formatted using moment.js and write that stream to the file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "H0v",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
